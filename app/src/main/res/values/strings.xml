@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">restaurantMenu</string>
+    <string name="exit">Exit</string>
+    <string name="dialog_text">Are you sure you want to exit?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="click_to_enter">Click to Enter</string>
+    <string name="reserve_sits">Reserve Sits</string>
+    <string name="reserve_not_exist">You dont have reservation yet.</string>
+    <string name="reserve_name">Reservation for</string>
+    <string name="reserve_phone">phone contact is</string>
+    <string name="reserve_amount_sits">amount of sits</string>
+    <string name="reserve_payment">payment method is</string>
+    <string name="performed_by">Performed by Maor Shwalb</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="reservation">Reservation</string>
+    <string name="steak_meal">Steak on the plancha</string>
+    <string name="sushi_meal">Sushi combination</string>
+    <string name="fish_meal">Grilled fish</string>
+    <string name="house_salad_meal">The house salad</string>
+    <string name="vegetable_salad_meal">Vegetable Salad</string>
+    <string name="squeezed_drink">Naturally squeezed</string>
+    <string name="cocktail_drink">The house cocktail</string>
+    <string name="steak_product">300 grams of grilled entrecote, goose liver medallion, antipasti vegetables, garlic confit, chimichurri, bone marrowon a hot frying pan.</string>
+    <string name="sushi_product">8 units inside out, 4 units maki sweet potato in tempura, 4 units avocado nigiri, 4 units sunset roll, 4 units special roll, 4 units salmon nigiri.</string>
+    <string name="fish_product">Sea bass fillet on the hot plancha with a lemon bite</string>
+    <string name="house_salad_product">Roughly cut garden vegetables,Jerusalem pretzel, seasoned with lemon olive oil and pine nuts.</string>
+    <string name="vegetable_salad_product">Fresh garden vegetables, aromatic herbs, olive oil and lemon.</string>
+    <string name="squeezed_product">Freshly squeezed juice of your choice</string>
+    <string name="cocktail_product">Cocktails to choose from (contains alcohol)</string>
+    <string name="steak_product_price">price : 35$</string>
+    <string name="sushi_product_price">price : 30$</string>
+    <string name="fish_product_price">price : 25$</string>
+    <string name="house_salad_product_price">price : 23$</string>
+    <string name="vegetable_salad_product_price">price : 21$</string>
+    <string name="squeezed_product_price">price : 10$</string>
+    <string name="cocktail_product_price">price : 20$</string>
+    <string name="enter_name">Please enter you\'re name</string>
+    <string name="enter_phone">Please enter you\'re phone number</string>
+    <string name="enter_sits">Please enter amount of sits</string>
+    <string name="enter_payment">Type you\'re payment methode</string>
+    <string name="done">Done</string>
+    <string name="order_success">Order success</string>
+    <string name="order_failed">Order failed \n Something was missing</string>
+    <string name="not_vegan_vegan">Not Vegan / Vegan</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">restaurantMenu</string>
+    <string name="exit">יציאה</string>
+    <string name="dialog_text">אתה בטוח שאתה רוצה לצאת?</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="click_to_enter">לחץ כדי להיכנס</string>
+    <string name="reserve_sits">הזמנה קיימת</string>
+    <string name="performed_by">בוצע ע\"י מאור שוואלב</string>
+    <string name="main_menu">לתפריט</string>
+    <string name="reservation">להזמנות</string>
+    <string name="steak_meal">סטייק על הפלנצ\'ה</string>
+    <string name="sushi_meal">קומבינציית סושי</string>
+    <string name="fish_meal">דג בגריל</string>
+    <string name="house_salad_meal">סלט הבית</string>
+    <string name="vegetable_salad_meal">סלט ירקות</string>
+    <string name="squeezed_drink">סחוט טבעי</string>
+    <string name="cocktail_drink">קוקטייל הבית</string>
+    <string name="reserve_name">הזמנה עבור</string>
+    <string name="reserve_phone">מספר הפלאפון</string>
+    <string name="reserve_amount_sits">מספר סועדים</string>
+    <string name="reserve_payment">אמצעי תשלום</string>
+    <string name="reserve_not_exist">לא קיימת הזמנה במערכת.</string>
+    <string name="steak_product">300 גרם אנטריקוט מיושן ומתובל בגריל, מדליון כבד אווז, ירקות אנטיפסטי, שום קונפי, צ\'ימיצ\'ורי, מח עצם על מחבת חמה</string>
+    <string name="sushi_product">8 יחידות אינסייד אאוט, 4 יחידות מאקי בטטה בטמפורה, 4 יחידות ניגירי אבוקדו, 4 יחידות רול שקיעה, 4 יחידות רול מיוחד, 4 יחידות ניגירי סלמון.</string>
+    <string name="fish_product">פילה מוסר ים על הפלנצ\'ה לוהטת עם נגיסי לימון</string>
+    <string name="house_salad_product">ירקות גינה חתוכים גס, עשבים ארומטיים בתיבול שמן זית לימון, קרוטונים ואגוזי מלך</string>
+    <string name="vegetable_salad_product">ירקות טריים, פטרוזילה, בצל קצוץ, שמן זית ולימון</string>
+    <string name="squeezed_product">מיץ סחוט טרי לבחירתכם</string>
+    <string name="cocktail_product">קוקטיילים לבחירה (מכיל אלכוהול)</string>
+    <string name="steak_product_price">מחיר : 35$</string>
+    <string name="sushi_product_price">מחיר : 30$</string>
+    <string name="fish_product_price">מחיר : 25$</string>
+    <string name="house_salad_product_price">מחיר : 23$</string>
+    <string name="vegetable_salad_product_price">מחיר : 21$</string>
+    <string name="squeezed_product_price">מחיר : 10$</string>
+    <string name="cocktail_product_price">מחיר : 20$</string>
+    <string name="enter_name">הזן את שמך</string>
+    <string name="enter_phone">הזן את מספר הפלאפון</string>
+    <string name="enter_sits">הזן כמות סועדים</string>
+    <string name="enter_payment">הזן את אופן התשלום</string>
+    <string name="done">הזמן מקום</string>
+    <string name="not_vegan_vegan">לא טבעוני/טבעוני</string>
+    <string name="order_success">ההזמנה אושרה</string>
+    <string name="order_failed">ההזמנה נכשלה</string>
+</resources>
