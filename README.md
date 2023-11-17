@@ -12,4 +12,3 @@ Whether you're a vegetarian enthusiast or a meat lover, our menu app caters to a
 
 🗂️ book a table, and check their reservation details on the main screen.
 
-![ezgif com-video-to-gif](https://github.com/MaorShwalb/KOTLIN---RestaurantMenuProject/assets/97365304/385ea7e0-5e92-4859-ba39-3c7f7806b1f5)
